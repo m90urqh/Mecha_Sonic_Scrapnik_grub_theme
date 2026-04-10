@@ -12,7 +12,7 @@ A sleek, high-performance GRUB theme for Arch Linux, inspired by Mecha Sonic and
 1. Copy folder to `/usr/share/grub/themes/` or wherever are themes in your machine.
 2. Edit `/etc/default/grub` and update the theme path:
    ```bash
-   GRUB_THEME="/usr/share/grub/themes/Mecha_Sonic_Scrapnik_grub_theme/theme.txt"
+   GRUB_THEME="/usr/share/grub/themes/Mecha_Sonic_Scrapnik_grub_theme-main/theme.txt"
 3. Run `grub-mkconfig`
 
 ### note1: To remove the logo, swap "background.jpg" name with "_background.jpg".
