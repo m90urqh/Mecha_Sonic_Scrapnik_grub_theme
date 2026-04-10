@@ -1,5 +1,7 @@
 # 🐧 My Arch GRUB Theme
 A sleek, high-performance GRUB theme for Arch Linux, inspired by Mecha Sonic and the Vimix grub theme.
+A live look at the Mecha Sonic Scrapnik theme running on Arch Linux.
+![mechasonic_grub_theme_showcase](https://github.com/user-attachments/assets/ab27aa8b-51d5-4ea7-ac1c-fdf453ad4a80)
 
 
 ## 🚀 Features
