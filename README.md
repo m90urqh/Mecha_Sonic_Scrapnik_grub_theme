@@ -17,3 +17,8 @@ A sleek, high-performance GRUB theme for Arch Linux, inspired by Mecha Sonic and
 
 ### note1: To remove the logo, swap "background.jpg" name with "_background.jpg".
 ### note2: Based on the Vimix Modern GRUB theme. Please provide attribution if redistributed.
+> [!TIP]
+> **Screen Resolution & Scaling:** If the menu rectangle doesn't align correctly with your screen, I have included two "clean" versions of the background without the baked-in UI.
+> 
+> * **To Fix:** Replace `background.jpg` with one of the alternative images in the folder.
+> * **Bonus:** These images work great as standalone desktop wallpapers too!
