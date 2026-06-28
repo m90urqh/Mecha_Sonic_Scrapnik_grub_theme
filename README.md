@@ -25,3 +25,10 @@ A live look at the Mecha Sonic Scrapnik theme running on Arch Linux.
 > 
 > * **To Fix:** Replace `background.jpg` with one of the alternative images in the folder.
 > * **Bonus:** These images work great as standalone desktop wallpapers too!
+
+> [!TIP]
+> Still seeing the old theme after running grub-mkconfig?
+> Make sure your boot partition is properly mounted before regenerating the configuration file:
+> ```bash
+> sudo mount -a
+> sudo grub-mkconfig -o /boot/grub/grub.cfg
